@@ -15,5 +15,5 @@ export const personalData = {
   tryhackme: "https://tryhackme.com/p/mightydas",
   devUsername: "Mehul_Kumar_Das",
   resume:
-    "https://drive.google.com/file/d/1AdEYkxMM72f9DSv-3UX2JaQIX7ZvwfV1/view?usp=sharing",
+    "https://drive.google.com/file/d/1SDuWZvteM016C4kC2Yyxq_LDiyzkLB--/view?usp=sharing",
 };
