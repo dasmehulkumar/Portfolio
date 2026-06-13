@@ -166,7 +166,7 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/mehulkd/",
   devUsername: "MEHUL_KUMAR_DAS",
   resume:
-    "https://drive.google.com/file/d/1AdEYkxMM72f9DSv-3UX2JaQIX7ZvwfV1/view?usp=sharing",
+    "https://drive.google.com/file/d/1SDuWZvteM016C4kC2Yyxq_LDiyzkLB--/view?usp=sharing",
 `};
 ```
 
